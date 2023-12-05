@@ -1,6 +1,3 @@
-from pprint import pprint
-
-
 class RangeMap:
     ranges: [(int, int, int)]
 
